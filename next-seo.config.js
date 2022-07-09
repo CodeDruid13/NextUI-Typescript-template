@@ -3,16 +3,16 @@ const defaultSEOConfig = {
   title: "starter-nextui",
   titleTemplate: "%s | starter-nextui",
   defaultTitle: "starter-nextui",
-  description: "Next.js + chakra-ui + TypeScript template",
+  description: "Next.js + NetxUI + TypeScript template",
   canonical: "",
   openGraph: {
     url: "",
     title: "starter-nextui",
-    description: "Next.js + chakra-ui + TypeScript template",
+    description: "Next.js + NextUi + TypeScript template",
     images: [
       {
-        url: "",
-        alt: "",
+        url: "https://starter-nextui.netlify.app/",
+        alt: "NextUi Starter",
       },
     ],
     site_name: "starter-nextui",

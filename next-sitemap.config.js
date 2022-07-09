@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 const NextSitemapConfig = {
-  siteUrl: "",
+  siteUrl: "https://starter-nextui.netlify.app/",
   generateRobotsTxt: true,
 };
 
