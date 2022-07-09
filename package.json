@@ -1,5 +1,5 @@
 {
-  "name": "nextarter-nextui",
+  "name": "starter-nextui",
   "private": true,
   "scripts": {
     "dev": "next dev",

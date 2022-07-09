@@ -1,7 +1,7 @@
 import { Button, Grid, Image, Link } from "@nextui-org/react";
 
-const repoName = "nextarter-nextui";
-const repoLink = `https://github.com/codedruid13/${repoName}`;
+const repoName = "starter-nextui";
+const repoLink = `https://github.com/codedruid13/NextUI-Typescript-template`;
 
 const CTASection = () => {
   return (

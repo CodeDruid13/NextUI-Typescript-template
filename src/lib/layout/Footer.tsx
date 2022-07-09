@@ -10,8 +10,12 @@ const Footer = () => {
       justify="center"
     >
       {new Date().getFullYear()} {" - "}
-      <Link href="https://sznm.dev" target="_blank" rel="noopener noreferrer">
-        sznm.dev
+      <Link
+        href="https://obare.netlify.app"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Obare
       </Link>
     </Container>
   );

@@ -2,7 +2,7 @@ import { CssBaseline } from "@nextui-org/react";
 import type { DocumentContext } from "next/document";
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
-const APP_NAME = "nextarter-nextui";
+const APP_NAME = "starter-nextui";
 
 class MyDocument extends Document {
   static getInitialProps(ctx: DocumentContext) {

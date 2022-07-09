@@ -1,21 +1,21 @@
 /** @type {import('next-seo').DefaultSeoProps} */
 const defaultSEOConfig = {
-  title: "nextarter-nextui",
-  titleTemplate: "%s | nextarter-nextui",
-  defaultTitle: "nextarter-nextui",
+  title: "starter-nextui",
+  titleTemplate: "%s | starter-nextui",
+  defaultTitle: "starter-nextui",
   description: "Next.js + chakra-ui + TypeScript template",
-  canonical: "https://nextarter-nextui.sznm.dev",
+  canonical: "",
   openGraph: {
-    url: "https://nextarter-nextui.sznm.dev",
-    title: "nextarter-nextui",
+    url: "",
+    title: "starter-nextui",
     description: "Next.js + chakra-ui + TypeScript template",
     images: [
       {
-        url: "https://og-image.sznm.dev/**nextarter-nextui**.sznm.dev.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fsznm.dev%2Favataaars.svg&widths=250",
-        alt: "nextarter-nextui.sznm.dev og-image",
+        url: "",
+        alt: "",
       },
     ],
-    site_name: "nextarter-nextui",
+    site_name: "starter-nextui",
   },
   twitter: {
     handle: "@codedruid13",

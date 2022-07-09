@@ -1,4 +1,4 @@
-# nextarter-nextui
+# starter-nextui
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [**TypeScript**](https://www.typescriptlang.org) setup.
 Start developing right away!
@@ -16,7 +16,6 @@ Start developing right away!
 - 🔎 SEO optimization configured
 
   with `next-seo` and `next-sitemap`. you'll need to reconfigure or tinker with it to get it right according to your needs, but it's there if you need it.
-
 
 ## References
 
